@@ -1,0 +1,24 @@
+{
+  "name": "rnd-hex",
+  "version": "0.0.1",
+  "description": "Fast simple random hex string generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Taraflex/rnd-hex.git"
+  },
+  "keywords": [
+    "random",
+    "hex",
+    "string"
+  ],
+  "author": "taraflex",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Taraflex/rnd-hex/issues"
+  },
+  "homepage": "https://github.com/Taraflex/rnd-hex"
+}
